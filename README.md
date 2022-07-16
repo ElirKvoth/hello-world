@@ -1,4 +1,4 @@
 # hello-world
-first repository
+My first repository
 
 by: https://docs.github.com/pt/get-started/quickstart/hello-world
